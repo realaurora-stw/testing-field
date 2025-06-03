@@ -1,0 +1,6 @@
+{
+  "success": true|false,
+  "challenge_ts": timestamp,
+  "hostname": string,         
+  "error-codes": [...]        
+}
